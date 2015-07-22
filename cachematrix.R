@@ -1,4 +1,4 @@
-makeCacheMatrix <- function(x = matrix()) { ## The makeCacheMatrix is a function thnt contains 
+makeCacheMatrix <- function(x = matrix()) { ## The makeCacheMatrix is a function that contains 
                                             ##other functions (set,get,setmatrix,getmatrix).
         
         inverse_m <- NULL  ## the default value of the inverse matrix in the main function is null.
